@@ -1,9 +1,11 @@
 # 24K-2032
 ## 24K-2032 Fatima Javaid
+## Lab 02
 
+### ***Objective 1: FLOWCHARTS (CONT.)***
+**Task 01**
 
-
-
+![image](https://github.com/user-attachments/assets/917ab7c0-3c17-43c7-9dba-2833a9e0e060)
 
 ### ***Objective 2: PSEUDOCODE***
 **Task 02**
