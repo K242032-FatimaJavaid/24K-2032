@@ -2,6 +2,18 @@
 ## 24K-2032 Fatima Javaid
 ## Lab 02
 
+- 👋Hi, I'm Fatima 
+
+- 👀I'm interested in learning
+
+- 🌱I'm currently learning to program
+
+- ⚡Fun fact: I like Cats🐱
+
+- 🩷 Hobby: Painting
+
+![Cato](https://i.pinimg.com/736x/df/fb/83/dffb83e3fc3fe4ecb1b46786493b0f6b.jpg)
+
 ### ***Objective 1: FLOWCHARTS (CONT.)***
 **Task 01**
 
